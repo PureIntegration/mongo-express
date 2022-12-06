@@ -75,7 +75,7 @@
     "renderjson": "dozoisch/renderjson#cd0ef870c1298d53f09555da54e4bf57a0d21414",
     "supertest": "^6.1.6",
     "webpack": "^5.61.0",
-    "webpack-cli": "^4.9.1"
+    "webpack-cli": "^5.0.1"
   },
   "resolutions": {
     "**/event-stream": "^4.0.1"
